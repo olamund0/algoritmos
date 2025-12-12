@@ -1,11 +1,3 @@
-# Algoritmos  
-Equipe:  
-Carlos Daniel  
-Jefferson Ezequiel  
-Lucas Emanoel  
-Rafaela Bricia  
-Wictor Firmino  
-
 ## Livraria em LinkedList  
 Apesar de ter uma complexidade maior que listas sequenciais, nosso grupo decidiu 
 construir a livraria baseada em lista encadeada. A explicação do professor forneceu 
